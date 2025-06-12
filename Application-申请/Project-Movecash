@@ -56,6 +56,16 @@
   Helium硬件供应商品牌Piscesminer的cofunder
   Tonsprotocol社区funder
 
+  团队成员：
+  0xC
+  Helium硬件供应商品牌Piscesminer的cofunder
+  5年Crypto市场marketing经验
+
+  Alex
+  5年互联网从业经验
+  熟悉Evm生态，并作为solidity多年开发者
+  3年前端开发经验
+
 15. 如果有多位创始人，请说明你们如何结识的？
   NA
 
@@ -82,24 +92,38 @@
   3.Telegram Miniapp & Telegram BOT 移动端、BOT端入口
   4.TS-SDK 卡包接入、卡型管理、卡充值SDK
   5.Onchain-Contract-Interface DEFI复合形卡服务
+  预期达成：
+  1. 5K 月活用户。
+  2. 500K $ 的APT流动性锁定。300K $的稳定币资产锁定
+  3. 1K 新DEFI流动性用户。
   
   2025 Q3 , 20K
   Movecash 加密预付卡marketing。包含：
   1.媒体合作
   2.to B 协议集成 [eg : Aptin Labs , AAVE等借贷协议]
   3.新媒体KOL渠道宣发
+  预期达成：
+  1.跟Lending / Farming 类型的协议各两家大型协议达成服务集成，协助对应协议构建法币资产下游。
+  2.为Aptos生态提供优质的加密衍生品、现货交易所的下游免税消费渠道，虹吸更多的合规中心化交易所交易者到链上交易，以规避部分国家的加密税。
+  3.为B/C端用户群构建 “链上储蓄卡” 的认知与配套生态，实现吸纳更多的链外资金储蓄至Aptos生息，并为Aptos的Stablecoin Eco提供协议用例。
   
   2025 Q4 ， 7K
   Movecash Aptos payment 加密结算、收单体系构建。包含
   1.Onchain payment & callback 对标 [https://tonspay.top/]
   2.Developer SDK & SDK . 对标 [https://docs.tonspay.top/develop/restful-api-interface]
   3.法币收单，Aptos链上偿付、结算
+  预期达成：
+  1.为Aptos提供更高的CoinEx流动性，通过支付收单协议的方案虹吸多链支付资产跨到Aptos上。
+  2.作为基础的Payfi金融组件寂寞，将Aptos流动性无缝镶嵌进Web3支付体系，并集成商户出金体系。
   
   2025 Q4 ， 3K
   Movecash Aptos payment 开发者社群hackathon 。 包含
   1.商业集成、关系合作 1K
   2.开发者社群Movecash Card SDK Move集成Winner Price ： 0.5K 0.5K
   3.开发者社群Movecash Payment SDK 集成案例 Winner Price  : 0.5k 0.5K
+  预期达成：
+  1.构建Web3跨境商户体系的范式以及优秀集成案例，为Aptos提供链外流动洗。
+  2.吸纳更多的中小型商户，帮助他们将更多的链外流动洗以支付方案的形式虹吸至Aptos。
 
 19. 核心团队是否需要Aptos Space（香港）的办公空间支持？
   需要，正在考虑组建HK本土团队。并且依托HK做合规化银联卡BIN业务。
